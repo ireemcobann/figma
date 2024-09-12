@@ -1,0 +1,89 @@
+@import url(reset.css);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+background: linear-gradient(225deg, #A54343 0%, #E73535 100%);
+}
+
+
+.container {
+
+  width: 1110px;
+  margin: 0 auto;
+
+.biggy {
+  display: flex;
+  align-items: center;
+
+  
+  .biggy-info {
+
+    
+   
+
+    h1 {
+      font-family: "Montserrat", system-ui;
+      font-size: 140px;
+      font-weight: 700;
+      line-height: 127px;
+      letter-spacing: -1.5750000476837158px;
+      text-align: left;
+      color: #FFF;
+    }
+    p {
+
+      font-family: "Montserrat", system-ui;
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 34px;
+      text-align: left;
+      color: #FFF;
+      margin-top: 57px;
+
+    }
+    .biggy-button {
+
+      margin-top: 47px;
+
+
+        img {
+          width: 135px;
+          height: 41px;
+          width: 294px;
+          height: 98px;
+          gap: 0px;
+          opacity: 0px;
+
+         
+          
+          
+        }
+      }
+    }
+    
+    .biggy-image {
+      margin-top: 93px;
+      margin-left: 105px;
+
+      img {
+        width: 1125px;
+        height: 891px;
+        top: 133px;
+        left: 537px;
+    
+      }
+
+
+
+    }
+  }
+}
+
+
+.car {
+    margin-top: 34px;
+    width: 135px;
+    height: 41px;
+    gap: 0px;
+    opacity: 0px;
+
+    }
